@@ -1,4 +1,4 @@
-baklat
+# Bombaklat
 Bombaklat is a platformer based on the bfdi character Bomby.
 
 # The Plot
